@@ -1,0 +1,1444 @@
+<table class="board-table" summary="아주대학교 대표 공지사항">
+ <caption class="hide">
+  아주대학교 대표 공지사항
+ </caption>
+ <colgroup>
+  <col class="b-col"/>
+  <col class="b-col"/>
+  <col class="b-col-title"/>
+  <col class="b-col"/>
+  <col class="b-col-wide"/>
+  <col class="b-col-date"/>
+ </colgroup>
+ <thead>
+  <tr>
+   <th scope="col">
+    번호
+   </th>
+   <th scope="col">
+    분류
+   </th>
+   <th scope="col">
+    제목
+   </th>
+   <th class="b-no-right" scope="col">
+    파일
+   </th>
+   <th scope="col">
+    공지부서
+   </th>
+   <th scope="col">
+    작성일
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363066&amp;article.offset=0&amp;articleLimit=10" title="[학부]2025학년도 전기(2026년 2월 20일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [학부]2025학년도 전기(2026년 2월 20일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       26.02.13
+      </span>
+      <span class="hit">
+       조회수 5216
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363066&amp;attachNo=320919" title="첨부파일다운로드">
+          2025학년도 전기(2026년 2월 20일) 졸업 안내.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363066&amp;attachNo=320920" title="첨부파일다운로드">
+          붙임1. 2025 전기(2026.02.) 졸업 확정자 명단.xlsx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363066&amp;attachNo=320921" title="첨부파일다운로드">
+          붙임2. 2026학년도 1학기 학사학위취득유예생 명단.xlsx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363066&amp;attachNo=320922" title="첨부파일다운로드">
+          붙임3. 2026학년도 1학기 졸업연기생 명단.xlsx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363066&amp;attachNo=320923" title="첨부파일다운로드">
+          붙임4._학과별_연락처.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2026-02-13
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    기타
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=362658&amp;article.offset=0&amp;articleLimit=10" title="[총무팀] 대학원생 대상 정기주차권 추가 신청 및 등록 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [총무팀] 대학원생 대상 정기주차권 추가 신청 및 등록 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       기타
+      </span>
+      <span class="b-writer">
+       총무팀
+      </span>
+      <span class="b-date">
+       26.02.05
+      </span>
+      <span class="hit">
+       조회수 45808
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=362658&amp;attachNo=320496" title="첨부파일다운로드">
+          (대학원생) 지도교수_확인서.hwpx
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    총무팀
+   </td>
+   <td>
+    2026-02-05
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=362156&amp;article.offset=0&amp;articleLimit=10" title="(학부) 2026학년도 입학식 및 신입생 학부모 간담회 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      (학부) 2026학년도 입학식 및 신입생 학부모 간담회 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       26.01.29
+      </span>
+      <span class="hit">
+       조회수 84848
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2026-01-29
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=362091&amp;article.offset=0&amp;articleLimit=10" title="(학부, 일반대학원 대상) 학위수여식 안내 (2.20.(금) 14시, 연암관 대강당) 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      (학부, 일반대학원 대상) 학위수여식 안내 (2.20.(금) 14시, 연암관 대강당)
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       26.01.28
+      </span>
+      <span class="hit">
+       조회수 99632
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2026-01-28
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    기타
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=361810&amp;article.offset=0&amp;articleLimit=10" title="[총무팀][정기주차권] 2026학년도 1학기 정기주차권 신청 및 등록 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [총무팀][정기주차권] 2026학년도 1학기 정기주차권 신청 및 등록 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       기타
+      </span>
+      <span class="b-writer">
+       총무팀
+      </span>
+      <span class="b-date">
+       26.01.23
+      </span>
+      <span class="hit">
+       조회수 122040
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=361810&amp;attachNo=319612" title="첨부파일다운로드">
+          2026-1 정기주차권 신청 및 등록 안내문.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    총무팀
+   </td>
+   <td>
+    2026-01-23
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=361732&amp;article.offset=0&amp;articleLimit=10" title="[학부] 2026-1학기 등록/환불 안내(2.20.~2.26.) 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [학부] 2026-1학기 등록/환불 안내(2.20.~2.26.)
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       재무회계팀
+      </span>
+      <span class="b-date">
+       26.01.22
+      </span>
+      <span class="hit">
+       조회수 145372
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=361732&amp;attachNo=319565" title="첨부파일다운로드">
+          2026-1학기 본등록 안내.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    재무회계팀
+   </td>
+   <td>
+    2026-01-22
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=361256&amp;article.offset=0&amp;articleLimit=10" title="[학부]2026학년도 1학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정) 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [학부]2026학년도 1학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       26.01.14
+      </span>
+      <span class="hit">
+       조회수 175628
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=361256&amp;attachNo=320908" title="첨부파일다운로드">
+          2026-1학기 과목개설 현황(26.02.13).xlsx
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2026-01-14
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=359625&amp;article.offset=0&amp;articleLimit=10" title="[학사] 2026-1학기 휴학/복학 신청 안내(01.15. 수정) 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [학사] 2026-1학기 휴학/복학 신청 안내(01.15. 수정)
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       25.12.05
+      </span>
+      <span class="hit">
+       조회수 317333
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=359625&amp;attachNo=319252" title="첨부파일다운로드">
+          첨부 1. 2026-1학기 휴복학 신청 안내.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=359625&amp;attachNo=319253" title="첨부파일다운로드">
+          첨부 2. 휴학연장 및 휴학종류 변경 매뉴얼.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=359625&amp;attachNo=319254" title="첨부파일다운로드">
+          첨부 3. 1학년 1학기 Co-BSM 이수 대상자 안내(2026).pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=359625&amp;attachNo=319255" title="첨부파일다운로드">
+          첨부 4. 복학사유 연가사용 시 주의사항 및 위반자 처리 기준(병무청 자료).pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2025-12-05
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    사무
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=352588&amp;article.offset=0&amp;articleLimit=10" title="[긴급] 교직원 사칭 주의 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [긴급] 교직원 사칭 주의 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       사무
+      </span>
+      <span class="b-writer">
+       총무팀
+      </span>
+      <span class="b-date">
+       25.08.07
+      </span>
+      <span class="hit">
+       조회수 465751
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    총무팀
+   </td>
+   <td>
+    2025-08-07
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=324578&amp;article.offset=0&amp;articleLimit=10" title="[학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.29.수정) 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.29.수정)
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       24.08.21
+      </span>
+      <span class="hit">
+       조회수 1246877
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=324578&amp;attachNo=292665" title="첨부파일다운로드">
+          붙임_[아주대학교]_공결_관련_안내.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2024-08-21
+   </td>
+  </tr>
+  <tr class="b-top-box">
+   <td class="b-num-box num-notice">
+    <span>
+     공지
+    </span>
+   </td>
+   <td>
+    사무
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=10" title="아주대 x AUTISTAR 머그컵 구매 방법 안내 자세히 보기">
+      <span class="b-notice">
+       [공지]
+      </span>
+      아주대 x AUTISTAR 머그컵 구매 방법 안내
+     </a>
+     <div class="b-etc-box">
+     </div>
+     <div class="b-m-con">
+      <span class="b-notice">
+       공지
+      </span>
+      <span class="b-cate">
+       사무
+      </span>
+      <span class="b-writer">
+       홍보실
+      </span>
+      <span class="b-date">
+       21.12.16
+      </span>
+      <span class="hit">
+       조회수 1875956
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=147976&amp;attachNo=124663" title="첨부파일다운로드">
+          아주대 x AUTISTAR 머그컵 구매방법 업데이트 안내.docx
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    홍보실
+   </td>
+   <td>
+    2021-12-16
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26839
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363079&amp;article.offset=0&amp;articleLimit=10" title="[신입생필독]아주상상프로젝트 대주제 신청 안내 자세히 보기">
+      [신입생필독]아주상상프로젝트 대주제 신청 안내
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       다산학부대학교학팀
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 14226
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363079&amp;attachNo=320963" title="첨부파일다운로드">
+          아주상상프로젝트 대주제 신청 가이드.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    다산학부대학교학팀
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26838
+   </td>
+   <td>
+    기타
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363247&amp;article.offset=0&amp;articleLimit=10" title="[장애학생지원실]2026-1학기 교육지원인력(구.도우미) 모집 3차 자세히 보기">
+      [장애학생지원실]2026-1학기 교육지원인력(구.도우미) 모집 3차
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       기타
+      </span>
+      <span class="b-writer">
+       장애학생지원실
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 194
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363247&amp;attachNo=321079" title="첨부파일다운로드">
+          교육지원인력 지원신청서(재학생)(성명).hwp
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363247&amp;attachNo=321080" title="첨부파일다운로드">
+          2026-1 시간표(성명).hwp
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    장애학생지원실
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26837
+   </td>
+   <td>
+    비교과
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=362822&amp;article.offset=0&amp;articleLimit=10" title="[글로벌교양학부](대학원생) 26-1 한국어 글쓰기 클리닉 튜터 모집(~ 3/5(목) 18시까지) 자세히 보기">
+      [글로벌교양학부](대학원생) 26-1 한국어 글쓰기 클리닉 튜터 모집(~ 3/5(목) 18시까지)
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       비교과
+      </span>
+      <span class="b-writer">
+       글로벌교양학부
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 2093
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    글로벌교양학부
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26836
+   </td>
+   <td>
+    취업
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363239&amp;article.offset=0&amp;articleLimit=10" title='[일자리+센터] 📢2026 편입생을 위한 메타버스 진로-취업 캠프 "메타 JOB 버스"를 개최합니다! 자세히 보기'>
+      [일자리+센터] 📢2026 편입생을 위한 메타버스 진로-취업 캠프 "메타 JOB 버스"를 개최합니다!
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       취업
+      </span>
+      <span class="b-writer">
+       대학일자리플러스센터
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 173
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    대학일자리플러스센터
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26835
+   </td>
+   <td>
+    기타
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363238&amp;article.offset=0&amp;articleLimit=10" title="COSS 대단위 강의실(구 성호관 소극장) 오픈 안내 자세히 보기">
+      COSS 대단위 강의실(구 성호관 소극장) 오픈 안내
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       기타
+      </span>
+      <span class="b-writer">
+       데이터보안ㆍ활용 혁신융합대학사업단
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 181
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363238&amp;attachNo=321071" title="첨부파일다운로드">
+          COSS대단위강의실 오픈 안내.jpg
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    데이터보안ㆍ활용 혁신융합대학사업단
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26834
+   </td>
+   <td>
+    장학
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363234&amp;article.offset=0&amp;articleLimit=10" title="2026-1 국가근로장학 일반유형(교내,교외) 추가모집 신청 안내 자세히 보기">
+      2026-1 국가근로장학 일반유형(교내,교외) 추가모집 신청 안내
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       장학
+      </span>
+      <span class="b-writer">
+       학생지원팀
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 465
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363234&amp;attachNo=321067" title="첨부파일다운로드">
+          아주대학교 2026-1 추가모집 기관 리스트(0220수정).xlsx
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    학생지원팀
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26833
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363225&amp;article.offset=0&amp;articleLimit=10" title="[학부]2026학년도 신입학생(02.27(금))·편입학생(02.26(목)) 수강신청 안내 자세히 보기">
+      [학부]2026학년도 신입학생(02.27(금))·편입학생(02.26(목)) 수강신청 안내
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       교무팀
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 724
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321051" title="첨부파일다운로드">
+          1. 신입생 편입생 수강신청 가이드.pptx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321052" title="첨부파일다운로드">
+          2-1. 2026-1학기 학사편람 수강신청 매뉴얼.hwp
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321053" title="첨부파일다운로드">
+          2-2. 2026-1학기 학사편람 수강신청 매뉴얼 추가(수강신청 취소 신청지연 제도 안내).pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321054" title="첨부파일다운로드">
+          3. 2026학년도_신입생_대상_Co-BSM_및_자동수강신청_안내(정시_입학생_대상)_0219.pptx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321055" title="첨부파일다운로드">
+          4. [교무팀] 2026학년도 편입생 학사안내(편입생 OT자료).pptx
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321056" title="첨부파일다운로드">
+          5~7. 2026-1학기 학사편람 관련 안내(압축본).Zip
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321057" title="첨부파일다운로드">
+          8. [공학교육혁신센터]2026학년도 공학교육인증 안내 자료.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363225&amp;attachNo=321058" title="첨부파일다운로드">
+          9._수강신청관련_문의처.hwp
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    교무팀
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26832
+   </td>
+   <td>
+    학사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=362684&amp;article.offset=0&amp;articleLimit=10" title="[글로벌교양학부] 26.1학기 &lt;아주인을 위한 마중물&gt; 동아리 소개 모집 자세히 보기">
+      [글로벌교양학부] 26.1학기 &lt;아주인을 위한 마중물&gt; 동아리 소개 모집
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       학사
+      </span>
+      <span class="b-writer">
+       글로벌교양학부
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 2826
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+   </td>
+   <td>
+    글로벌교양학부
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26831
+   </td>
+   <td>
+    행사
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363222&amp;article.offset=0&amp;articleLimit=10" title="[필독] 2026-1학기 천원의 아침밥🍚 이용방법 안내 자세히 보기">
+      [필독] 2026-1학기 천원의 아침밥🍚 이용방법 안내
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       행사
+      </span>
+      <span class="b-writer">
+       학생지원팀
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 477
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363222&amp;attachNo=321046" title="첨부파일다운로드">
+          붙임1._천원의_아침밥_이용_매뉴얼(최종).pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363222&amp;attachNo=321047" title="첨부파일다운로드">
+          _영문_천원의아침밥-매뉴얼.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363222&amp;attachNo=321048" title="첨부파일다운로드">
+          _중국어_천원의_아침밥_이용_매뉴얼.pdf
+         </a>
+        </li>
+        <li>
+         <a href="?mode=download&amp;articleNo=363222&amp;attachNo=321049" title="첨부파일다운로드">
+          _베트남어_-천원의-아침밥-이용-메뉴얼.pdf
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    학생지원팀
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+  <tr class="">
+   <td class="b-num-box">
+    26830
+   </td>
+   <td>
+    기타
+   </td>
+   <td class="b-td-left">
+    <div class="b-title-box">
+     <a href="?mode=view&amp;articleNo=363220&amp;article.offset=0&amp;articleLimit=10" title="[홍보](차세대융합기술연구원) 2026 경기도 대학생 융합기술 창업지원 사업(~3/13) 자세히 보기">
+      [홍보](차세대융합기술연구원) 2026 경기도 대학생 융합기술 창업지원 사업(~3/13)
+     </a>
+     <div class="b-etc-box">
+      <p class="b-new">
+       <span>
+        NEW
+       </span>
+      </p>
+     </div>
+     <div class="b-m-con">
+      <span class="b-cate">
+       기타
+      </span>
+      <span class="b-writer">
+       창업지원팀
+      </span>
+      <span class="b-date">
+       26.02.20
+      </span>
+      <span class="hit">
+       조회수 247
+      </span>
+      <span class="b-file">
+       첨부파일
+      </span>
+     </div>
+    </div>
+   </td>
+   <td class="b-no-right">
+    <div class="b-common-file-box type01">
+     <a class="btn-popup-file" href="#a" title="첨부파일 목록 열기">
+      <span>
+       첨부파일
+      </span>
+     </a>
+     <div class="b-popup-file-wrap js-popup-file">
+      <div class="b-popup-file-box ko">
+       <h5 class="b-h5-tit02">
+        첨부파일
+       </h5>
+       <ul>
+        <li>
+         <a href="?mode=download&amp;articleNo=363220&amp;attachNo=321040" title="첨부파일다운로드">
+          「2026 경기도 대학생 융합기술 창업지원」모집공고.zip
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </td>
+   <td>
+    창업지원팀
+   </td>
+   <td>
+    2026-02-20
+   </td>
+  </tr>
+ </tbody>
+</table>
