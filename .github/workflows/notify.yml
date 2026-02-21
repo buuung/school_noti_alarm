@@ -21,8 +21,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 python-dotenv
-
+        run: pip install requests beautifulsoup4 
+        
       - name: Run bot
         env:
           SCHOOL_NOTI_URL: ${{ secrets.SCHOOL_NOTI_URL }}
