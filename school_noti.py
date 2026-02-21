@@ -3,9 +3,6 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
-from dotenv import load_dotenv
-
-load_dotenv()
 
 URL = os.environ['SCHOOL_NOTI_URL']
 TOKEN = os.environ['TELEGRAM_TOKEN']
